@@ -1,3 +1,10 @@
+# What's this?
+This is a mod manager for the game Homeworld 3.
+
+Imagine you have 10 different mods. You can't simply put all of them in your game folder because the game will load all the mods simultaneously, and they might not be compatible with each other. You might think, "Okay, I'll just manage them manually," but you'll soon find that each mod contains multiple files stored in different paths (some in `~mod`, some in `mods`, etc.), making manual management a real headache.
+
+This mod manager is designed to help with this situation. With it, you can install multiple mods at once and enable or disable any of them with a single click.
+
 # How to Use
 
 [中文使用说明](#使用说明)
