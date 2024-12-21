@@ -1,0 +1,3 @@
+[submodule "Koppeling"]
+	path = Koppeling
+	url = git@github.com:lone-wolf-akela/Koppeling.git
